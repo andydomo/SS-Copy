@@ -39,7 +39,7 @@
   ],
   "advancedReports": null,
   "guid": "c9e0d33d-fe34-4f8c-b261-a1c3817d108a",
-  "authorName": "te",
+  "authorName": "tekkk",
   "accesstokenMethod": null,
   "tokenAddlParams": null,
   "publishPrivate": true,
@@ -59,7 +59,7 @@
       "showWhen": null,
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:599"
+      "$$hashKey": "object:605"
     },
     {
       "name": "test",
@@ -72,7 +72,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:600"
+      "$$hashKey": "object:606"
     },
     {
       "name": "",
@@ -85,7 +85,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:601"
+      "$$hashKey": "object:607"
     }
   ],
   "commands": null,
@@ -112,11 +112,11 @@
   "transferUserId": null,
   "transferCustomerId": null,
   "stakeholders": null,
-  "repository": "SS1",
+  "repository": "SS-Copy",
   "visible": true,
   "validImages": [
-    "logoWithBackground",
     "iconWithBackground",
+    "logoWithBackground",
     "iconWithoutBackground",
     "logoWithoutBackground"
   ]
